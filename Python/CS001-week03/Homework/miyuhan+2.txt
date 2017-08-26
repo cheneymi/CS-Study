@@ -1,0 +1,13 @@
+x = list(range(20,-1,-2))
+for item in x:
+	print(item, sep='')
+x.append(88)
+print(x)
+x.insert(0,666)
+print(x)
+ x.remove(4)
+print(x)
+print(len(x))
+print(sorted(x))
+ x.sort(reverse=False)
+ print(x)
