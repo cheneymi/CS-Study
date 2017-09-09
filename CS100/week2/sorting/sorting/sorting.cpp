@@ -86,7 +86,7 @@ int main(int argc, const char * argv[]) {
     for(int i=0;i<n;i++){
         cin>>a[i];
     }
-//    sortBySelect(a,n); // 选择排序
+    sortBySelect(a,n); // 选择排序
 //    sortByMerge(a,0,n-1); // 归并排序
     baseSort(a,n);  // 基数排序
     

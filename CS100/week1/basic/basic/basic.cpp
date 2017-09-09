@@ -110,10 +110,10 @@ int main(int argc, const char * argv[]) {
     
         std::cout << "Hello, World!\n";
     
-//        basicTypeDemo();
-//        ioDemo();
-//        basicOprDemo();
-//        basicStructureDemo();
+        basicTypeDemo();
+        ioDemo();
+        basicOprDemo();
+        basicStructureDemo();
         forDemo();
     
     return 0;
