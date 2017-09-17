@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "f[i][j]">
+            </PersistentString>
+            <PersistentString
+               value = "f[i-1][j-w[i]]">
+            </PersistentString>
+            <PersistentString
+               value = "f[i-1][j]">
+            </PersistentString>
+            <PersistentString
+               value = "v[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
